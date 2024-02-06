@@ -1,6 +1,10 @@
+var whatsapp = "https://wa.me/+923112768887";
+var facebook = "https://www.facebook.com/people/Muhammed-Hamza/100047769554983/";
+var portfolio = "https://muhammadhamzariaz1.github.io/";
+var linkedin = "https://www.linkedin.com/in/muhammad-hamza-riaz/";
 var github = "https://github.com/XBEAST1";
 var youtube = "https://www.youtube.com/channel/UCKxr9Jv1DpNFPHyXxHU0TTw";
-var instagram = "https://www.instagram.com/ig_hamxa91/";
+var instagram = "https://www.instagram.com/0x00007ff/";
 var email = 'xbeast331@proton.me';
 var back = 'https://xbeast0.github.io/xbeast/';
 const empty = "&nbsp";
@@ -15,9 +19,13 @@ about = [
 
 links = [
   `<table>
+   <tr><td>whatsapp</td><td><a href="${whatsapp}" target="_blank">whatsapp</a></td></tr>
+   <tr><td>portfolio</td><td><a href="${portfolio}" target="_blank">portfolio</a></td></tr>
+   <tr><td>linkedin</td><td><a href="${linkedin}" target="_blank">linkedin account</a></td></tr>
    <tr><td>github</td><td><a href="${github}" target="_blank">github account</a></td></tr>
-   <tr><td>youtube</td><td><a href="${youtube}" target="_blank">youtube channel</a></td></tr>
+   <tr><td>facebook</td><td><a href="${facebook}" target="_blank">facebook account</a></td></tr>
    <tr><td>instagram</td><td><a href="${instagram}" target="_blank">instagram account</a></td></tr>
+   <tr><td>youtube</td><td><a href="${youtube}" target="_blank">youtube channel</a></td></tr>
    </table>`,
 ];
 
@@ -73,7 +81,7 @@ welcomeMsg = [
 ];
 
 allCommands = [
-  "help", "about", "links", "projects", "email", "theme", "theme ls", "theme random", "theme set coral", "theme set midnight", "theme set chocolate", "youtube", "github", "instagram", "history", "clear", "banner", "back", "ping"
+  "help", "about", "links", "projects", "email", "theme", "theme ls", "theme random", "theme set coral", "theme set midnight", "theme set chocolate", "whatsapp", "facebook", "linkedin", "portfolio", "youtube", "github", "instagram", "history", "clear", "banner", "back", "ping"
 ];
 
 themes = {

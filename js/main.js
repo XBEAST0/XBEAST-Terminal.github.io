@@ -148,6 +148,22 @@ function commander(cmd) {
       addLine("Opening Instagram...", "color2", 0);
       newTab(instagram);
       break;
+    case "whatsapp":
+      addLine("Opening Whatsapp...", "color2", 0);
+      newTab(whatsapp);
+      break;
+    case "facebook":
+      addLine("Opening Facebook...", "color2", 0);
+      newTab(facebook);
+      break;
+    case "linkedin":
+      addLine("Opening Linkedin...", "color2", 0);
+      newTab(linkedin);
+      break;
+    case "portfolio":
+      addLine("Opening Porfolio...", "color2", 0);
+      newTab(portfolio);
+      break;
     // functional commands
     case "history":
       addLine("<br>", "", 0);

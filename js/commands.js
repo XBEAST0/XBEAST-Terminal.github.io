@@ -6,7 +6,7 @@ var github = "https://github.com/XBEAST1";
 var youtube = "https://www.youtube.com/channel/UCKxr9Jv1DpNFPHyXxHU0TTw";
 var instagram = "https://www.instagram.com/0x00007ff/";
 var email = 'xbeast331@proton.me';
-var back = 'https://xbeast0.github.io/xbeast/';
+var back = 'https://xbeast0.github.io/';
 const empty = "&nbsp";
 
 about = [
